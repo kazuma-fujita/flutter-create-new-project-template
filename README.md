@@ -1,3 +1,11 @@
+# Android StudioのFlutterテンプレートをカスタマイズする方法
+
+Android StudioのFlutterテンプレートをカスタマイズしてプロジェクト作成時のLint静的解析/Visual Debugging設定/画像設定を自動化する方法です。
+
+Flutter テンプレートは Flutter SDK をインストールしたディレクトリ配下にあります。
+
+- {flutter-sdk-path}/flutter/packages/flutter_tools/templates/app/
+
 ### 環境
 
 - macOS Big Sur 11.1
